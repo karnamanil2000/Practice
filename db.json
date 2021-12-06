@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "signupAdmins": [
+    {
+      "fullName": "Anil Kumar",
+      "mobileNo": 9423564525,
+      "email": "anil@gmail.com",
+      "password": "anil@123",
+      "id": 1
+    },
+    {
+      "fullName": "Sony",
+      "mobileNo": 8756455645,
+      "email": "sony@gmail.com",
+      "password": "sony@123",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "userName": "Anil Kumar",
+      "email": "anil@gmail.com",
+      "id": 1
+    },
+    {
+      "userName": "Raj",
+      "email": "raj@gmail.com",
+      "id": 2
+    },
+    {
+      "userName": "Anish",
+      "email": "anish@gmail.com",
+      "id": 3
+    },
+    {
+      "userName": "SK Kapoor",
+      "email": "sk@gmail.com",
+      "id": 4
+    },
+    {
+      "userName": "Nitish",
+      "email": "nitish@gmail.com",
+      "id": 5
+    },
+    {
+      "userName": "RK Murthy",
+      "email": "rk@gmail.com",
+      "id": 6
+    },
+    {
+      "userName": "Harika",
+      "email": "harika@gmail.com",
+      "id": 7
+    },
+    {
+      "userName": "Sirish",
+      "email": "sirish@gmail.com",
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
